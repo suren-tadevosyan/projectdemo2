@@ -22,7 +22,8 @@
       "allow_credentials": false,
       "expose_headers": [],
       "max_age": 0
-    }
+    },
+    "function_url_enabled": true
   },
   "ephemeral_storage": 512
 }
